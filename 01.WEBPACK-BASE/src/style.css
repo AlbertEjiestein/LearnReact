@@ -1,0 +1,8 @@
+body{
+  background-color: #f00;
+  background: url(./assets/01.webp) 0 0 no-repeat;
+}
+
+::placeholder {
+  color: #999;
+}
